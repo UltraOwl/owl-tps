@@ -20,7 +20,7 @@ You can use this tool to tcp port scan in your terminal
           
 *************************
 [*][*]Click ctrl+c to exit from program
-Enter url for <TCP PORT SCAN>: 
+Enter url for TCP PORT SCAN: 
 
 </pre>
 
