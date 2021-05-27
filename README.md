@@ -18,9 +18,9 @@ You can use this tool to tcp port scan in your terminal
  **                   Channel : @UltraOwl                          **
  ====================================================================          
           
-*************************
-[*][*]Click ctrl+c to exit from program
-Enter url for TCP PORT SCAN: 
+ *************************
+ [*][*]Click ctrl+c to exit from program
+ Enter url for TCP PORT SCAN: 
 
 </pre>
 
